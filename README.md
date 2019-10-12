@@ -10,13 +10,13 @@ This is a Python3 script written by me out of laziness to synchronize subtitles 
 This code takes two parameters. 
 You can run this line from command line to know how to use it. 
 
-```python
+```
 python3 subsync.py -h
 ```
 
 Output says - 
 
-```python
+```
 usage: subsync.py [-h] -f FILENAME -t DIFF
 
 optional arguments:
