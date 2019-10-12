@@ -14,7 +14,7 @@ parser.add_argument("-f", "--file", type=str, dest="filename", required=True,
 
 parser.add_argument("-t", "--time",
                     required=True, type=int, dest="diff", default=0,
-                    help="input positive (speed up subtitle) or negative number (speed down subtitle)")
+                    help="input positive (speed up subtitle) or negative (speed down subtitle) number of seconds.")
 
 args = parser.parse_args()
 dir_path = str(os.path.dirname(os.path.realpath(__file__)))
