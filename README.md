@@ -20,9 +20,9 @@ Output says -
 usage: subsync.py [-h] -f FILENAME -t DIFF
 
 optional arguments:
-  -h, --help            			show this help message and exit
+  -h, --help            			    show this help message and exit
   -f FILENAME, --file FILENAME 		input subtitle file name
-  -t DIFF, --time DIFF  			input positive (speed up subtitle) or negative number (speed down subtitle)
+  -t DIFF, --time DIFF            input positive (speed up subtitle) or negative number (speed down subtitle)
 ```
 
 ## Example usage
