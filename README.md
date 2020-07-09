@@ -1,5 +1,5 @@
 # Subtitle Synchronizer
-This is a Python3 script written by me out of laziness to synchronize subtitles for movies or TV series or anime or others. In VLC and other media players there are UI based options to sync them with the video but they seems time consuming to use to me, doesn't have clear instructions and doesn't work properly. I could never make use of it. This file takes care of this problem. 
+This is a Python3 script written by me out of laziness to synchronize subtitles for movies or TV series or anime or others. In VLC and other media players there are UI based options to sync them with the video but they seem time consuming to me, don't have clear instructions and don't work properly. I could never make use of it. This file takes care of this problem. 
 
 # How to run this file
 ## What do you need to run this file
